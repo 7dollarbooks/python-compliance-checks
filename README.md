@@ -51,7 +51,7 @@ The process generalizes. The same compliance loop applies to brainstorming new c
 
 The compliance loop now runs on a second, entirely different AI system: my multi-agent Grok Bot, where all sub-agent output passes through a single coordinating agent before it goes anywhere. The checks sit at that choke point — every output is verified in code, no exceptions.
 
-Result: no drifting, no hallucinations. The fiction pipeline was the demonstration; this is the generality claim holding up on new ground.
+Result: bots can still get things wrong, but no drift or unsourced claim reaches me. Every line that gets through matches a source the checker opened itself. The fiction pipeline was the demonstration; this is the generality claim holding up on new ground.
 
 ## The claim
 
